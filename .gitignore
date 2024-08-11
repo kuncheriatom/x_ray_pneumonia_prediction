@@ -1,0 +1,8 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore my_dir folder
+my_dir/
+
+# Ignore chest_xray folder
+chest_xray/
